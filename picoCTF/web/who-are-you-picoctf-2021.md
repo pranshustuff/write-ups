@@ -16,9 +16,9 @@ Let me in. Let me iiiiiiinnnnnnnnnnnnnnnnnnnn
 
 When I first loaded it up I saw:
 
-```
+
 ![](../images/who-are-you.png)
-```
+
 
 Since it's regarding the browser, it was likely something to do with the **HTTP request headers**.  
 I used **Burp Suite Proxy** to capture the request, and **Repeater** to test various modifications.
